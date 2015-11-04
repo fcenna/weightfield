@@ -14,5 +14,5 @@ make -f Makefile_MacOS10.10_root6 if you are running ROOT6 with MacOS10.10
 
 2) ./weightfield &
 
-Note: additional libraries and/or ROOT libraries may be required for running WF2
+Note: additional libraries and/or ROOT libraries may be required for running WF2  
 For further details and manual, read wiki

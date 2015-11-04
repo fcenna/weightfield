@@ -1,0 +1,60 @@
+# this is a comment
+
+#########################
+#--Detector Properties--#
+#########################
+#--Dimensions--
+STRIP_NUMB		3		number of strips (1,3,5..)
+DETECT_HEIGHT		300		Detector height (um)
+STR_PITCH		900		Strip pitch (um)
+STR_WIDTH		890		Strip Width (um)
+GAIN_SCL		10		Gain Scale (1 = no G)
+HE_GAIN_RAT		0.0		h/e Gain ratio
+GAIN_LYR_RSS		0		Gain layer recess (um)
+YPOSITION		100		Y coordinate for Edge and LASER
+
+#- irradiation --
+IRRADIATION		1
+DOUBLEJUNCTION          1               Value of current
+
+NA_OVER_ND  	        0.5               N_A/N_D for DJ computation
+
+#--Voltage-- 
+BIAS_VOLTAGE		800		Bias Voltage (V)
+DEPL_VOLTAGE		40		Depletion Voltage (V)
+
+#--Electronics--
+CAPACITANCE		6.		Det. Capacitance (pF)
+INDUCTANCE		4.		Det. Capacitance (pF)
+IMPEDANCE		50		Shaper Impedance
+OSCOPE_BW		2.5		Oscilloscope BW (GHz)
+SHPR_INT_TIME		4		Shaper Int. Time (ns)
+SHPR_DCY_TIME		15		Shaper Decay Time (ns)
+SHPR_TRANS		4		Shaper TransImpedance
+SHPR_NOISE		0		Shaper Noise
+VTH			10		Vth (in noise unit)
+
+
+BBBW			2.5;
+BBGAIN 			100
+BBVTH 			 10.
+BB_NOISE 		  0.
+
+
+
+#############
+#--Control--#
+#############
+PRECISION		10		Precision (1=best, 10=fastest)
+SAMPLING		100
+NUMBERP			1
+
+#--Select Particles--
+SET_RANGE		10		Set range (um)
+CALIB			5
+USERQ			73
+
+#--Currents--
+TEMPERATURE		300		Temperature (K)
+
+#ALL PARAMETERS ARE IN "WFGUI.cxx"

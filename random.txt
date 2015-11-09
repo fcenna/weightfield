@@ -1,0 +1,4 @@
+minrandom = CarriersInNumberentry->GetNumber - (int)dwpot.Getpitch()/2;
+maxrandom = CarriersInNumberentry->GetNumber + (int)dwpot.Getpitch()/2;	
+
+xvalue = CarriersInNumberentry->GetNumber() + (int)dwpot.Getpitch()*gRandom->Rndm();

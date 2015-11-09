@@ -3,7 +3,7 @@
 Weightfield2 is a freeware 2D simulator for silicon and diamond detector
 
 It is based on Weightfield ( http://www.hephy.at/en/research/departments/semiconductor-detectors/detector-simulation )
-You need to have root ( root.cern.ch ) on your machine
+You need to have root ( http://root.cern.ch ) on your machine
 
 How to run Weightfield2
 

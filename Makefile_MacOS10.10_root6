@@ -2,9 +2,23 @@
 #			Makefile			#
 #################################
 
-weightfield: WFGUI.h WFGUI.cxx Potentials.h Potentials.cxx Field.h Field.cxx Carriers.h Carriers.cxx
+SOURCES := Weightfield.cxx WFGUI.cxx Potentials.cxx Field.cxx Carriers.cxx
+HEADERS := WFGUI.h Potentials.h Field.h Carriers.h
+FILE_TO_CHECK := root_files/Geant_Vin.root
+ROOT_CONF := `root-config --cflags --glibs`
+GXX := g++ -O0 -g
+
+
+weightfield: $(HEADERS) $(SOURCES)
+ifeq ($(wildcard $(FILE_TO_CHECK)),)
+	$(error Missing file $(FILE_TO_CHECK))
+endif
 	rootcint -f Dict.cxx -c WFGUI.h LinkDef.h 
-	g++ -O0 -g -Wall -Wextra -o weightfield Weightfield.cxx WFGUI.cxx Potentials.cxx Field.cxx Carriers.cxx `root-config --cflags --glibs` Dict.cxx 
-all: WFGUI.h WFGUI.cxx Potentials.h Potentials.cxx Field.h Field.cxx Carriers.h Carriers.cxx
+	$(GXX) -Wall -Wextra -o weightfield $(SOURCES) $(ROOT_CONF) Dict.cxx 
+	
+all: $(HEADERS) $(SOURCES)
+ifeq ($(wildcard $(FILE_TO_CHECK)),)
+	$(error Missing file $(FILE_TO_CHECK))
+endif
 	rootcint -f Dict.cxx -c WFGUI.h LinkDef.h 
-	g++ -O0 -g -Wall -Wextra -o weightfield Weightfield.cxx WFGUI.cxx Potentials.cxx Field.cxx Carriers.cxx `root-config --cflags --glibs` Dict.cxx  
+	$(GXX) -Wall -Wextra -o weightfield $(SOURCES) $(ROOT_CONF) Dict.cxx  

@@ -103,7 +103,7 @@ std::map<std::string, double> GetParameters(const char* ifname = "/parameters/pa
 WFGUI::WFGUI(const TGWindow *p,UInt_t w,UInt_t h): TGMainFrame(p,w,h), dwpot(Potentials(300,1,200,30)) {
 
     //take intial varible names from parameters file
-	const char* ifname = "/parameters/parameters.dat";
+	const char* ifname = "parameters/parameters.dat";
 	std::map<std::string, double> valueMap = GetParameters(ifname);
 
 	// mainframes initial settings

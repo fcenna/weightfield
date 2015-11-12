@@ -1,0 +1,2132 @@
+GNU Make 3.82
+Built for x86_64-redhat-linux-gnu
+Copyright (C) 2010  Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Lettura dei makefile...
+Lettura del makefile «Makefile»...
+Aggiornamento dei makefile....
+ Considerato il file obiettivo «Makefile».
+  Ricerca di una regola implicita per «Makefile».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.o».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.c».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.cc».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.C».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.cpp».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.p».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.f».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.F».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.m».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.r».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.s».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.S».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.mod».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.sh».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile,v».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «RCS/Makefile,v».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «RCS/Makefile».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «s.Makefile».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «SCCS/s.Makefile».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.o».
+  Ricerca di una regola con il "file intermedio" «Makefile.o».
+   Viene evitata la ricorsione della regola implicita.
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.c».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.cc».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.C».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.cpp».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.p».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.f».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.F».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.m».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.r».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.s».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.S».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.mod».
+   Viene tentata la regola del pattern con radice «Makefile.o».
+   Viene tentato il prerequisito implicito «Makefile.o,v».
+   Viene tentata la regola del pattern con radice «Makefile.o».
+   Viene tentato il prerequisito implicito «RCS/Makefile.o,v».
+   Viene tentata la regola del pattern con radice «Makefile.o».
+   Viene tentato il prerequisito implicito «RCS/Makefile.o».
+   Viene tentata la regola del pattern con radice «Makefile.o».
+   Viene tentato il prerequisito implicito «s.Makefile.o».
+   Viene tentata la regola del pattern con radice «Makefile.o».
+   Viene tentato il prerequisito implicito «SCCS/s.Makefile.o».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.c».
+   Ricerca di una regola con il "file intermedio" «Makefile.c».
+    Viene evitata la ricorsione della regola implicita.
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.y».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.l».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.w».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.w».
+    Viene tentata la regola del pattern con radice «Makefile.c».
+    Viene tentato il prerequisito implicito «Makefile.c,v».
+    Viene tentata la regola del pattern con radice «Makefile.c».
+    Viene tentato il prerequisito implicito «RCS/Makefile.c,v».
+    Viene tentata la regola del pattern con radice «Makefile.c».
+    Viene tentato il prerequisito implicito «RCS/Makefile.c».
+    Viene tentata la regola del pattern con radice «Makefile.c».
+    Viene tentato il prerequisito implicito «s.Makefile.c».
+    Viene tentata la regola del pattern con radice «Makefile.c».
+    Viene tentato il prerequisito implicito «SCCS/s.Makefile.c».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.y».
+    Ricerca di una regola con il "file intermedio" «Makefile.y».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Makefile.y».
+     Viene tentato il prerequisito implicito «Makefile.y,v».
+     Viene tentata la regola del pattern con radice «Makefile.y».
+     Viene tentato il prerequisito implicito «RCS/Makefile.y,v».
+     Viene tentata la regola del pattern con radice «Makefile.y».
+     Viene tentato il prerequisito implicito «RCS/Makefile.y».
+     Viene tentata la regola del pattern con radice «Makefile.y».
+     Viene tentato il prerequisito implicito «s.Makefile.y».
+     Viene tentata la regola del pattern con radice «Makefile.y».
+     Viene tentato il prerequisito implicito «SCCS/s.Makefile.y».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.l».
+    Ricerca di una regola con il "file intermedio" «Makefile.l».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Makefile.l».
+     Viene tentato il prerequisito implicito «Makefile.l,v».
+     Viene tentata la regola del pattern con radice «Makefile.l».
+     Viene tentato il prerequisito implicito «RCS/Makefile.l,v».
+     Viene tentata la regola del pattern con radice «Makefile.l».
+     Viene tentato il prerequisito implicito «RCS/Makefile.l».
+     Viene tentata la regola del pattern con radice «Makefile.l».
+     Viene tentato il prerequisito implicito «s.Makefile.l».
+     Viene tentata la regola del pattern con radice «Makefile.l».
+     Viene tentato il prerequisito implicito «SCCS/s.Makefile.l».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.w».
+    Ricerca di una regola con il "file intermedio" «Makefile.w».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Makefile.w».
+     Viene tentato il prerequisito implicito «Makefile.w,v».
+     Viene tentata la regola del pattern con radice «Makefile.w».
+     Viene tentato il prerequisito implicito «RCS/Makefile.w,v».
+     Viene tentata la regola del pattern con radice «Makefile.w».
+     Viene tentato il prerequisito implicito «RCS/Makefile.w».
+     Viene tentata la regola del pattern con radice «Makefile.w».
+     Viene tentato il prerequisito implicito «s.Makefile.w».
+     Viene tentata la regola del pattern con radice «Makefile.w».
+     Viene tentato il prerequisito implicito «SCCS/s.Makefile.w».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene rifiutato il prerequisito implicito "impossible" «Makefile.w».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.cc».
+   Ricerca di una regola con il "file intermedio" «Makefile.cc».
+    Viene evitata la ricorsione della regola implicita.
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Makefile.cc».
+    Viene tentato il prerequisito implicito «Makefile.cc,v».
+    Viene tentata la regola del pattern con radice «Makefile.cc».
+    Viene tentato il prerequisito implicito «RCS/Makefile.cc,v».
+    Viene tentata la regola del pattern con radice «Makefile.cc».
+    Viene tentato il prerequisito implicito «RCS/Makefile.cc».
+    Viene tentata la regola del pattern con radice «Makefile.cc».
+    Viene tentato il prerequisito implicito «s.Makefile.cc».
+    Viene tentata la regola del pattern con radice «Makefile.cc».
+    Viene tentato il prerequisito implicito «SCCS/s.Makefile.cc».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.C».
+   Ricerca di una regola con il "file intermedio" «Makefile.C».
+    Viene evitata la ricorsione della regola implicita.
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Makefile.C».
+    Viene tentato il prerequisito implicito «Makefile.C,v».
+    Viene tentata la regola del pattern con radice «Makefile.C».
+    Viene tentato il prerequisito implicito «RCS/Makefile.C,v».
+    Viene tentata la regola del pattern con radice «Makefile.C».
+    Viene tentato il prerequisito implicito «RCS/Makefile.C».
+    Viene tentata la regola del pattern con radice «Makefile.C».
+    Viene tentato il prerequisito implicito «s.Makefile.C».
+    Viene tentata la regola del pattern con radice «Makefile.C».
+    Viene tentato il prerequisito implicito «SCCS/s.Makefile.C».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.cpp».
+   Ricerca di una regola con il "file intermedio" «Makefile.cpp».
+    Viene evitata la ricorsione della regola implicita.
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Makefile.cpp».
+    Viene tentato il prerequisito implicito «Makefile.cpp,v».
+    Viene tentata la regola del pattern con radice «Makefile.cpp».
+    Viene tentato il prerequisito implicito «RCS/Makefile.cpp,v».
+    Viene tentata la regola del pattern con radice «Makefile.cpp».
+    Viene tentato il prerequisito implicito «RCS/Makefile.cpp».
+    Viene tentata la regola del pattern con radice «Makefile.cpp».
+    Viene tentato il prerequisito implicito «s.Makefile.cpp».
+    Viene tentata la regola del pattern con radice «Makefile.cpp».
+    Viene tentato il prerequisito implicito «SCCS/s.Makefile.cpp».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.p».
+   Ricerca di una regola con il "file intermedio" «Makefile.p».
+    Viene evitata la ricorsione della regola implicita.
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.web».
+    Viene tentata la regola del pattern con radice «Makefile.p».
+    Viene tentato il prerequisito implicito «Makefile.p,v».
+    Viene tentata la regola del pattern con radice «Makefile.p».
+    Viene tentato il prerequisito implicito «RCS/Makefile.p,v».
+    Viene tentata la regola del pattern con radice «Makefile.p».
+    Viene tentato il prerequisito implicito «RCS/Makefile.p».
+    Viene tentata la regola del pattern con radice «Makefile.p».
+    Viene tentato il prerequisito implicito «s.Makefile.p».
+    Viene tentata la regola del pattern con radice «Makefile.p».
+    Viene tentato il prerequisito implicito «SCCS/s.Makefile.p».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.web».
+    Ricerca di una regola con il "file intermedio" «Makefile.web».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Makefile.web».
+     Viene tentato il prerequisito implicito «Makefile.web,v».
+     Viene tentata la regola del pattern con radice «Makefile.web».
+     Viene tentato il prerequisito implicito «RCS/Makefile.web,v».
+     Viene tentata la regola del pattern con radice «Makefile.web».
+     Viene tentato il prerequisito implicito «RCS/Makefile.web».
+     Viene tentata la regola del pattern con radice «Makefile.web».
+     Viene tentato il prerequisito implicito «s.Makefile.web».
+     Viene tentata la regola del pattern con radice «Makefile.web».
+     Viene tentato il prerequisito implicito «SCCS/s.Makefile.web».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.f».
+   Ricerca di una regola con il "file intermedio" «Makefile.f».
+    Viene evitata la ricorsione della regola implicita.
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.F».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.r».
+    Viene tentata la regola del pattern con radice «Makefile.f».
+    Viene tentato il prerequisito implicito «Makefile.f,v».
+    Viene tentata la regola del pattern con radice «Makefile.f».
+    Viene tentato il prerequisito implicito «RCS/Makefile.f,v».
+    Viene tentata la regola del pattern con radice «Makefile.f».
+    Viene tentato il prerequisito implicito «RCS/Makefile.f».
+    Viene tentata la regola del pattern con radice «Makefile.f».
+    Viene tentato il prerequisito implicito «s.Makefile.f».
+    Viene tentata la regola del pattern con radice «Makefile.f».
+    Viene tentato il prerequisito implicito «SCCS/s.Makefile.f».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.F».
+    Ricerca di una regola con il "file intermedio" «Makefile.F».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Makefile.F».
+     Viene tentato il prerequisito implicito «Makefile.F,v».
+     Viene tentata la regola del pattern con radice «Makefile.F».
+     Viene tentato il prerequisito implicito «RCS/Makefile.F,v».
+     Viene tentata la regola del pattern con radice «Makefile.F».
+     Viene tentato il prerequisito implicito «RCS/Makefile.F».
+     Viene tentata la regola del pattern con radice «Makefile.F».
+     Viene tentato il prerequisito implicito «s.Makefile.F».
+     Viene tentata la regola del pattern con radice «Makefile.F».
+     Viene tentato il prerequisito implicito «SCCS/s.Makefile.F».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.r».
+    Ricerca di una regola con il "file intermedio" «Makefile.r».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Makefile».
+     Viene rifiutato il prerequisito implicito "impossible" «Makefile.l».
+     Viene tentata la regola del pattern con radice «Makefile.r».
+     Viene tentato il prerequisito implicito «Makefile.r,v».
+     Viene tentata la regola del pattern con radice «Makefile.r».
+     Viene tentato il prerequisito implicito «RCS/Makefile.r,v».
+     Viene tentata la regola del pattern con radice «Makefile.r».
+     Viene tentato il prerequisito implicito «RCS/Makefile.r».
+     Viene tentata la regola del pattern con radice «Makefile.r».
+     Viene tentato il prerequisito implicito «s.Makefile.r».
+     Viene tentata la regola del pattern con radice «Makefile.r».
+     Viene tentato il prerequisito implicito «SCCS/s.Makefile.r».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene rifiutato il prerequisito implicito "impossible" «Makefile.F».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.m».
+   Ricerca di una regola con il "file intermedio" «Makefile.m».
+    Viene evitata la ricorsione della regola implicita.
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.ym».
+    Viene tentata la regola del pattern con radice «Makefile.m».
+    Viene tentato il prerequisito implicito «Makefile.m,v».
+    Viene tentata la regola del pattern con radice «Makefile.m».
+    Viene tentato il prerequisito implicito «RCS/Makefile.m,v».
+    Viene tentata la regola del pattern con radice «Makefile.m».
+    Viene tentato il prerequisito implicito «RCS/Makefile.m».
+    Viene tentata la regola del pattern con radice «Makefile.m».
+    Viene tentato il prerequisito implicito «s.Makefile.m».
+    Viene tentata la regola del pattern con radice «Makefile.m».
+    Viene tentato il prerequisito implicito «SCCS/s.Makefile.m».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.ym».
+    Ricerca di una regola con il "file intermedio" «Makefile.ym».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Makefile.ym».
+     Viene tentato il prerequisito implicito «Makefile.ym,v».
+     Viene tentata la regola del pattern con radice «Makefile.ym».
+     Viene tentato il prerequisito implicito «RCS/Makefile.ym,v».
+     Viene tentata la regola del pattern con radice «Makefile.ym».
+     Viene tentato il prerequisito implicito «RCS/Makefile.ym».
+     Viene tentata la regola del pattern con radice «Makefile.ym».
+     Viene tentato il prerequisito implicito «s.Makefile.ym».
+     Viene tentata la regola del pattern con radice «Makefile.ym».
+     Viene tentato il prerequisito implicito «SCCS/s.Makefile.ym».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene rifiutato il prerequisito implicito "impossible" «Makefile.r».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.s».
+   Ricerca di una regola con il "file intermedio" «Makefile.s».
+    Viene evitata la ricorsione della regola implicita.
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.S».
+    Viene tentata la regola del pattern con radice «Makefile.s».
+    Viene tentato il prerequisito implicito «Makefile.s,v».
+    Viene tentata la regola del pattern con radice «Makefile.s».
+    Viene tentato il prerequisito implicito «RCS/Makefile.s,v».
+    Viene tentata la regola del pattern con radice «Makefile.s».
+    Viene tentato il prerequisito implicito «RCS/Makefile.s».
+    Viene tentata la regola del pattern con radice «Makefile.s».
+    Viene tentato il prerequisito implicito «s.Makefile.s».
+    Viene tentata la regola del pattern con radice «Makefile.s».
+    Viene tentato il prerequisito implicito «SCCS/s.Makefile.s».
+    Viene tentata la regola del pattern con radice «Makefile».
+    Viene tentato il prerequisito implicito «Makefile.S».
+    Ricerca di una regola con il "file intermedio" «Makefile.S».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Makefile.S».
+     Viene tentato il prerequisito implicito «Makefile.S,v».
+     Viene tentata la regola del pattern con radice «Makefile.S».
+     Viene tentato il prerequisito implicito «RCS/Makefile.S,v».
+     Viene tentata la regola del pattern con radice «Makefile.S».
+     Viene tentato il prerequisito implicito «RCS/Makefile.S».
+     Viene tentata la regola del pattern con radice «Makefile.S».
+     Viene tentato il prerequisito implicito «s.Makefile.S».
+     Viene tentata la regola del pattern con radice «Makefile.S».
+     Viene tentato il prerequisito implicito «SCCS/s.Makefile.S».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene rifiutato il prerequisito implicito "impossible" «Makefile.S».
+   Viene tentata la regola del pattern con radice «Makefile».
+   Viene tentato il prerequisito implicito «Makefile.mod».
+   Ricerca di una regola con il "file intermedio" «Makefile.mod».
+    Viene evitata la ricorsione della regola implicita.
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Makefile.mod».
+    Viene tentato il prerequisito implicito «Makefile.mod,v».
+    Viene tentata la regola del pattern con radice «Makefile.mod».
+    Viene tentato il prerequisito implicito «RCS/Makefile.mod,v».
+    Viene tentata la regola del pattern con radice «Makefile.mod».
+    Viene tentato il prerequisito implicito «RCS/Makefile.mod».
+    Viene tentata la regola del pattern con radice «Makefile.mod».
+    Viene tentato il prerequisito implicito «s.Makefile.mod».
+    Viene tentata la regola del pattern con radice «Makefile.mod».
+    Viene tentato il prerequisito implicito «SCCS/s.Makefile.mod».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.c».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.cc».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.C».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.cpp».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.p».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.f».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.F».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.m».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.r».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.s».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.S».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene rifiutato il prerequisito implicito "impossible" «Makefile.mod».
+  Viene tentata la regola del pattern con radice «Makefile».
+  Viene tentato il prerequisito implicito «Makefile.sh».
+  Ricerca di una regola con il "file intermedio" «Makefile.sh».
+   Viene evitata la ricorsione della regola implicita.
+   Viene tentata la regola del pattern con radice «Makefile.sh».
+   Viene tentato il prerequisito implicito «Makefile.sh,v».
+   Viene tentata la regola del pattern con radice «Makefile.sh».
+   Viene tentato il prerequisito implicito «RCS/Makefile.sh,v».
+   Viene tentata la regola del pattern con radice «Makefile.sh».
+   Viene tentato il prerequisito implicito «RCS/Makefile.sh».
+   Viene tentata la regola del pattern con radice «Makefile.sh».
+   Viene tentato il prerequisito implicito «s.Makefile.sh».
+   Viene tentata la regola del pattern con radice «Makefile.sh».
+   Viene tentato il prerequisito implicito «SCCS/s.Makefile.sh».
+  Nessuna regola implicita trovata per «Makefile».
+  Prerequisiti del file obiettivo «Makefile» terminati.
+ L'obiettivo «Makefile» non necessita di essere rigenerato.
+Aggiornamento degli obbiettivi....
+Considerato il file obiettivo «weightfield».
+  Considerato il file obiettivo «WFGUI.h».
+   Ricerca di una regola implicita per «WFGUI.h».
+   Viene tentata la regola del pattern con radice «WFGUI.h».
+   Viene tentato il prerequisito implicito «WFGUI.h,v».
+   Viene tentata la regola del pattern con radice «WFGUI.h».
+   Viene tentato il prerequisito implicito «RCS/WFGUI.h,v».
+   Viene tentata la regola del pattern con radice «WFGUI.h».
+   Viene tentato il prerequisito implicito «RCS/WFGUI.h».
+   Viene tentata la regola del pattern con radice «WFGUI.h».
+   Viene tentato il prerequisito implicito «s.WFGUI.h».
+   Viene tentata la regola del pattern con radice «WFGUI.h».
+   Viene tentato il prerequisito implicito «SCCS/s.WFGUI.h».
+   Nessuna regola implicita trovata per «WFGUI.h».
+   Prerequisiti del file obiettivo «WFGUI.h» terminati.
+  L'obiettivo «WFGUI.h» non necessita di essere rigenerato.
+  Considerato il file obiettivo «WFGUI.cxx».
+   Ricerca di una regola implicita per «WFGUI.cxx».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.o».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.c».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.cc».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.C».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.cpp».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.p».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.f».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.F».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.m».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.r».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.s».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.S».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.mod».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.sh».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx,v».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «RCS/WFGUI.cxx,v».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «RCS/WFGUI.cxx».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «s.WFGUI.cxx».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.o».
+   Ricerca di una regola con il "file intermedio" «WFGUI.cxx.o».
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.c».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.cc».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.C».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.cpp».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.p».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.f».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.F».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.m».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.r».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.s».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.S».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.mod».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx.o».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.o,v».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx.o».
+    Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.o,v».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx.o».
+    Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.o».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx.o».
+    Viene tentato il prerequisito implicito «s.WFGUI.cxx.o».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx.o».
+    Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.o».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.c».
+    Ricerca di una regola con il "file intermedio" «WFGUI.cxx.c».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.y».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.l».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.w».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.w».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.c».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.c,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.c».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.c,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.c».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.c».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.c».
+     Viene tentato il prerequisito implicito «s.WFGUI.cxx.c».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.c».
+     Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.c».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.y».
+     Ricerca di una regola con il "file intermedio" «WFGUI.cxx.y».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.y».
+      Viene tentato il prerequisito implicito «WFGUI.cxx.y,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.y».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.y,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.y».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.y».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.y».
+      Viene tentato il prerequisito implicito «s.WFGUI.cxx.y».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.y».
+      Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.y».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.l».
+     Ricerca di una regola con il "file intermedio" «WFGUI.cxx.l».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.l».
+      Viene tentato il prerequisito implicito «WFGUI.cxx.l,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.l».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.l,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.l».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.l».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.l».
+      Viene tentato il prerequisito implicito «s.WFGUI.cxx.l».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.l».
+      Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.l».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.w».
+     Ricerca di una regola con il "file intermedio" «WFGUI.cxx.w».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.w».
+      Viene tentato il prerequisito implicito «WFGUI.cxx.w,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.w».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.w,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.w».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.w».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.w».
+      Viene tentato il prerequisito implicito «s.WFGUI.cxx.w».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.w».
+      Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.w».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.w».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.cc».
+    Ricerca di una regola con il "file intermedio" «WFGUI.cxx.cc».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.cc».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.cc,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.cc».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.cc,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.cc».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.cc».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.cc».
+     Viene tentato il prerequisito implicito «s.WFGUI.cxx.cc».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.cc».
+     Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.cc».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.C».
+    Ricerca di una regola con il "file intermedio" «WFGUI.cxx.C».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.C».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.C,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.C».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.C,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.C».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.C».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.C».
+     Viene tentato il prerequisito implicito «s.WFGUI.cxx.C».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.C».
+     Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.C».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.cpp».
+    Ricerca di una regola con il "file intermedio" «WFGUI.cxx.cpp».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.cpp».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.cpp,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.cpp».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.cpp,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.cpp».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.cpp».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.cpp».
+     Viene tentato il prerequisito implicito «s.WFGUI.cxx.cpp».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.cpp».
+     Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.cpp».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.p».
+    Ricerca di una regola con il "file intermedio" «WFGUI.cxx.p».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.web».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.p».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.p,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.p».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.p,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.p».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.p».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.p».
+     Viene tentato il prerequisito implicito «s.WFGUI.cxx.p».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.p».
+     Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.p».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.web».
+     Ricerca di una regola con il "file intermedio" «WFGUI.cxx.web».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.web».
+      Viene tentato il prerequisito implicito «WFGUI.cxx.web,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.web».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.web,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.web».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.web».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.web».
+      Viene tentato il prerequisito implicito «s.WFGUI.cxx.web».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.web».
+      Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.web».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.f».
+    Ricerca di una regola con il "file intermedio" «WFGUI.cxx.f».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.F».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.r».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.f».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.f,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.f».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.f,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.f».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.f».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.f».
+     Viene tentato il prerequisito implicito «s.WFGUI.cxx.f».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.f».
+     Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.f».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.F».
+     Ricerca di una regola con il "file intermedio" «WFGUI.cxx.F».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.F».
+      Viene tentato il prerequisito implicito «WFGUI.cxx.F,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.F».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.F,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.F».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.F».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.F».
+      Viene tentato il prerequisito implicito «s.WFGUI.cxx.F».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.F».
+      Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.F».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.r».
+     Ricerca di una regola con il "file intermedio" «WFGUI.cxx.r».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «WFGUI.cxx».
+      Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.l».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.r».
+      Viene tentato il prerequisito implicito «WFGUI.cxx.r,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.r».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.r,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.r».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.r».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.r».
+      Viene tentato il prerequisito implicito «s.WFGUI.cxx.r».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.r».
+      Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.r».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.F».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.m».
+    Ricerca di una regola con il "file intermedio" «WFGUI.cxx.m».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.ym».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.m».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.m,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.m».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.m,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.m».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.m».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.m».
+     Viene tentato il prerequisito implicito «s.WFGUI.cxx.m».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.m».
+     Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.m».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.ym».
+     Ricerca di una regola con il "file intermedio" «WFGUI.cxx.ym».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.ym».
+      Viene tentato il prerequisito implicito «WFGUI.cxx.ym,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.ym».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.ym,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.ym».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.ym».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.ym».
+      Viene tentato il prerequisito implicito «s.WFGUI.cxx.ym».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.ym».
+      Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.ym».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.r».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.s».
+    Ricerca di una regola con il "file intermedio" «WFGUI.cxx.s».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.S».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.s».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.s,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.s».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.s,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.s».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.s».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.s».
+     Viene tentato il prerequisito implicito «s.WFGUI.cxx.s».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.s».
+     Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.s».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.S».
+     Ricerca di una regola con il "file intermedio" «WFGUI.cxx.S».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.S».
+      Viene tentato il prerequisito implicito «WFGUI.cxx.S,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.S».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.S,v».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.S».
+      Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.S».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.S».
+      Viene tentato il prerequisito implicito «s.WFGUI.cxx.S».
+      Viene tentata la regola del pattern con radice «WFGUI.cxx.S».
+      Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.S».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.S».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.mod».
+    Ricerca di una regola con il "file intermedio" «WFGUI.cxx.mod».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.mod».
+     Viene tentato il prerequisito implicito «WFGUI.cxx.mod,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.mod».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.mod,v».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.mod».
+     Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.mod».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.mod».
+     Viene tentato il prerequisito implicito «s.WFGUI.cxx.mod».
+     Viene tentata la regola del pattern con radice «WFGUI.cxx.mod».
+     Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.mod».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.c».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.cc».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.C».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.cpp».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.p».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.f».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.F».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.m».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.r».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.s».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.S».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «WFGUI.cxx.mod».
+   Viene tentata la regola del pattern con radice «WFGUI.cxx».
+   Viene tentato il prerequisito implicito «WFGUI.cxx.sh».
+   Ricerca di una regola con il "file intermedio" «WFGUI.cxx.sh».
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «WFGUI.cxx.sh».
+    Viene tentato il prerequisito implicito «WFGUI.cxx.sh,v».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx.sh».
+    Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.sh,v».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx.sh».
+    Viene tentato il prerequisito implicito «RCS/WFGUI.cxx.sh».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx.sh».
+    Viene tentato il prerequisito implicito «s.WFGUI.cxx.sh».
+    Viene tentata la regola del pattern con radice «WFGUI.cxx.sh».
+    Viene tentato il prerequisito implicito «SCCS/s.WFGUI.cxx.sh».
+   Nessuna regola implicita trovata per «WFGUI.cxx».
+   Prerequisiti del file obiettivo «WFGUI.cxx» terminati.
+  L'obiettivo «WFGUI.cxx» non necessita di essere rigenerato.
+  Considerato il file obiettivo «Potentials.h».
+   Ricerca di una regola implicita per «Potentials.h».
+   Viene tentata la regola del pattern con radice «Potentials.h».
+   Viene tentato il prerequisito implicito «Potentials.h,v».
+   Viene tentata la regola del pattern con radice «Potentials.h».
+   Viene tentato il prerequisito implicito «RCS/Potentials.h,v».
+   Viene tentata la regola del pattern con radice «Potentials.h».
+   Viene tentato il prerequisito implicito «RCS/Potentials.h».
+   Viene tentata la regola del pattern con radice «Potentials.h».
+   Viene tentato il prerequisito implicito «s.Potentials.h».
+   Viene tentata la regola del pattern con radice «Potentials.h».
+   Viene tentato il prerequisito implicito «SCCS/s.Potentials.h».
+   Nessuna regola implicita trovata per «Potentials.h».
+   Prerequisiti del file obiettivo «Potentials.h» terminati.
+  L'obiettivo «Potentials.h» non necessita di essere rigenerato.
+  Considerato il file obiettivo «Potentials.cxx».
+   Ricerca di una regola implicita per «Potentials.cxx».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.o».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.c».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.cc».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.C».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.cpp».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.p».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.f».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.F».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.m».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.r».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.s».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.S».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.mod».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.sh».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx,v».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «RCS/Potentials.cxx,v».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «RCS/Potentials.cxx».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «s.Potentials.cxx».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.o».
+   Ricerca di una regola con il "file intermedio" «Potentials.cxx.o».
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.c».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.cc».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.C».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.cpp».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.p».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.f».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.F».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.m».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.r».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.s».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.S».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.mod».
+    Viene tentata la regola del pattern con radice «Potentials.cxx.o».
+    Viene tentato il prerequisito implicito «Potentials.cxx.o,v».
+    Viene tentata la regola del pattern con radice «Potentials.cxx.o».
+    Viene tentato il prerequisito implicito «RCS/Potentials.cxx.o,v».
+    Viene tentata la regola del pattern con radice «Potentials.cxx.o».
+    Viene tentato il prerequisito implicito «RCS/Potentials.cxx.o».
+    Viene tentata la regola del pattern con radice «Potentials.cxx.o».
+    Viene tentato il prerequisito implicito «s.Potentials.cxx.o».
+    Viene tentata la regola del pattern con radice «Potentials.cxx.o».
+    Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.o».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.c».
+    Ricerca di una regola con il "file intermedio" «Potentials.cxx.c».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.y».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.l».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.w».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.w».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.c».
+     Viene tentato il prerequisito implicito «Potentials.cxx.c,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.c».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.c,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.c».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.c».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.c».
+     Viene tentato il prerequisito implicito «s.Potentials.cxx.c».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.c».
+     Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.c».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.y».
+     Ricerca di una regola con il "file intermedio" «Potentials.cxx.y».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Potentials.cxx.y».
+      Viene tentato il prerequisito implicito «Potentials.cxx.y,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.y».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.y,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.y».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.y».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.y».
+      Viene tentato il prerequisito implicito «s.Potentials.cxx.y».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.y».
+      Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.y».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.l».
+     Ricerca di una regola con il "file intermedio" «Potentials.cxx.l».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Potentials.cxx.l».
+      Viene tentato il prerequisito implicito «Potentials.cxx.l,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.l».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.l,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.l».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.l».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.l».
+      Viene tentato il prerequisito implicito «s.Potentials.cxx.l».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.l».
+      Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.l».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.w».
+     Ricerca di una regola con il "file intermedio" «Potentials.cxx.w».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Potentials.cxx.w».
+      Viene tentato il prerequisito implicito «Potentials.cxx.w,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.w».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.w,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.w».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.w».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.w».
+      Viene tentato il prerequisito implicito «s.Potentials.cxx.w».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.w».
+      Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.w».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.w».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.cc».
+    Ricerca di una regola con il "file intermedio" «Potentials.cxx.cc».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Potentials.cxx.cc».
+     Viene tentato il prerequisito implicito «Potentials.cxx.cc,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.cc».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.cc,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.cc».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.cc».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.cc».
+     Viene tentato il prerequisito implicito «s.Potentials.cxx.cc».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.cc».
+     Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.cc».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.C».
+    Ricerca di una regola con il "file intermedio" «Potentials.cxx.C».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Potentials.cxx.C».
+     Viene tentato il prerequisito implicito «Potentials.cxx.C,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.C».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.C,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.C».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.C».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.C».
+     Viene tentato il prerequisito implicito «s.Potentials.cxx.C».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.C».
+     Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.C».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.cpp».
+    Ricerca di una regola con il "file intermedio" «Potentials.cxx.cpp».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Potentials.cxx.cpp».
+     Viene tentato il prerequisito implicito «Potentials.cxx.cpp,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.cpp».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.cpp,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.cpp».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.cpp».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.cpp».
+     Viene tentato il prerequisito implicito «s.Potentials.cxx.cpp».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.cpp».
+     Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.cpp».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.p».
+    Ricerca di una regola con il "file intermedio" «Potentials.cxx.p».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.web».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.p».
+     Viene tentato il prerequisito implicito «Potentials.cxx.p,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.p».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.p,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.p».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.p».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.p».
+     Viene tentato il prerequisito implicito «s.Potentials.cxx.p».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.p».
+     Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.p».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.web».
+     Ricerca di una regola con il "file intermedio" «Potentials.cxx.web».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Potentials.cxx.web».
+      Viene tentato il prerequisito implicito «Potentials.cxx.web,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.web».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.web,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.web».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.web».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.web».
+      Viene tentato il prerequisito implicito «s.Potentials.cxx.web».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.web».
+      Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.web».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.f».
+    Ricerca di una regola con il "file intermedio" «Potentials.cxx.f».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.F».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.r».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.f».
+     Viene tentato il prerequisito implicito «Potentials.cxx.f,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.f».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.f,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.f».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.f».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.f».
+     Viene tentato il prerequisito implicito «s.Potentials.cxx.f».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.f».
+     Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.f».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.F».
+     Ricerca di una regola con il "file intermedio" «Potentials.cxx.F».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Potentials.cxx.F».
+      Viene tentato il prerequisito implicito «Potentials.cxx.F,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.F».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.F,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.F».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.F».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.F».
+      Viene tentato il prerequisito implicito «s.Potentials.cxx.F».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.F».
+      Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.F».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.r».
+     Ricerca di una regola con il "file intermedio" «Potentials.cxx.r».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Potentials.cxx».
+      Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.l».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.r».
+      Viene tentato il prerequisito implicito «Potentials.cxx.r,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.r».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.r,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.r».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.r».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.r».
+      Viene tentato il prerequisito implicito «s.Potentials.cxx.r».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.r».
+      Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.r».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.F».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.m».
+    Ricerca di una regola con il "file intermedio" «Potentials.cxx.m».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.ym».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.m».
+     Viene tentato il prerequisito implicito «Potentials.cxx.m,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.m».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.m,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.m».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.m».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.m».
+     Viene tentato il prerequisito implicito «s.Potentials.cxx.m».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.m».
+     Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.m».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.ym».
+     Ricerca di una regola con il "file intermedio" «Potentials.cxx.ym».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Potentials.cxx.ym».
+      Viene tentato il prerequisito implicito «Potentials.cxx.ym,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.ym».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.ym,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.ym».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.ym».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.ym».
+      Viene tentato il prerequisito implicito «s.Potentials.cxx.ym».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.ym».
+      Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.ym».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.r».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.s».
+    Ricerca di una regola con il "file intermedio" «Potentials.cxx.s».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.S».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.s».
+     Viene tentato il prerequisito implicito «Potentials.cxx.s,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.s».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.s,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.s».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.s».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.s».
+     Viene tentato il prerequisito implicito «s.Potentials.cxx.s».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.s».
+     Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.s».
+     Viene tentata la regola del pattern con radice «Potentials.cxx».
+     Viene tentato il prerequisito implicito «Potentials.cxx.S».
+     Ricerca di una regola con il "file intermedio" «Potentials.cxx.S».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Potentials.cxx.S».
+      Viene tentato il prerequisito implicito «Potentials.cxx.S,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.S».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.S,v».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.S».
+      Viene tentato il prerequisito implicito «RCS/Potentials.cxx.S».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.S».
+      Viene tentato il prerequisito implicito «s.Potentials.cxx.S».
+      Viene tentata la regola del pattern con radice «Potentials.cxx.S».
+      Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.S».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.S».
+    Viene tentata la regola del pattern con radice «Potentials.cxx».
+    Viene tentato il prerequisito implicito «Potentials.cxx.mod».
+    Ricerca di una regola con il "file intermedio" «Potentials.cxx.mod».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Potentials.cxx.mod».
+     Viene tentato il prerequisito implicito «Potentials.cxx.mod,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.mod».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.mod,v».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.mod».
+     Viene tentato il prerequisito implicito «RCS/Potentials.cxx.mod».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.mod».
+     Viene tentato il prerequisito implicito «s.Potentials.cxx.mod».
+     Viene tentata la regola del pattern con radice «Potentials.cxx.mod».
+     Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.mod».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.c».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.cc».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.C».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.cpp».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.p».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.f».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.F».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.m».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.r».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.s».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.S».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Potentials.cxx.mod».
+   Viene tentata la regola del pattern con radice «Potentials.cxx».
+   Viene tentato il prerequisito implicito «Potentials.cxx.sh».
+   Ricerca di una regola con il "file intermedio" «Potentials.cxx.sh».
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Potentials.cxx.sh».
+    Viene tentato il prerequisito implicito «Potentials.cxx.sh,v».
+    Viene tentata la regola del pattern con radice «Potentials.cxx.sh».
+    Viene tentato il prerequisito implicito «RCS/Potentials.cxx.sh,v».
+    Viene tentata la regola del pattern con radice «Potentials.cxx.sh».
+    Viene tentato il prerequisito implicito «RCS/Potentials.cxx.sh».
+    Viene tentata la regola del pattern con radice «Potentials.cxx.sh».
+    Viene tentato il prerequisito implicito «s.Potentials.cxx.sh».
+    Viene tentata la regola del pattern con radice «Potentials.cxx.sh».
+    Viene tentato il prerequisito implicito «SCCS/s.Potentials.cxx.sh».
+   Nessuna regola implicita trovata per «Potentials.cxx».
+   Prerequisiti del file obiettivo «Potentials.cxx» terminati.
+  L'obiettivo «Potentials.cxx» non necessita di essere rigenerato.
+  Considerato il file obiettivo «Field.h».
+   Ricerca di una regola implicita per «Field.h».
+   Viene tentata la regola del pattern con radice «Field.h».
+   Viene tentato il prerequisito implicito «Field.h,v».
+   Viene tentata la regola del pattern con radice «Field.h».
+   Viene tentato il prerequisito implicito «RCS/Field.h,v».
+   Viene tentata la regola del pattern con radice «Field.h».
+   Viene tentato il prerequisito implicito «RCS/Field.h».
+   Viene tentata la regola del pattern con radice «Field.h».
+   Viene tentato il prerequisito implicito «s.Field.h».
+   Viene tentata la regola del pattern con radice «Field.h».
+   Viene tentato il prerequisito implicito «SCCS/s.Field.h».
+   Nessuna regola implicita trovata per «Field.h».
+   Prerequisiti del file obiettivo «Field.h» terminati.
+  L'obiettivo «Field.h» non necessita di essere rigenerato.
+  Considerato il file obiettivo «Field.cxx».
+   Ricerca di una regola implicita per «Field.cxx».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.o».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.c».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.cc».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.C».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.cpp».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.p».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.f».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.F».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.m».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.r».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.s».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.S».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.mod».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.sh».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx,v».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «RCS/Field.cxx,v».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «RCS/Field.cxx».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «s.Field.cxx».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «SCCS/s.Field.cxx».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.o».
+   Ricerca di una regola con il "file intermedio" «Field.cxx.o».
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.c».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.cc».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.C».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.cpp».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.p».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.f».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.F».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.m».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.r».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.s».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.S».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.mod».
+    Viene tentata la regola del pattern con radice «Field.cxx.o».
+    Viene tentato il prerequisito implicito «Field.cxx.o,v».
+    Viene tentata la regola del pattern con radice «Field.cxx.o».
+    Viene tentato il prerequisito implicito «RCS/Field.cxx.o,v».
+    Viene tentata la regola del pattern con radice «Field.cxx.o».
+    Viene tentato il prerequisito implicito «RCS/Field.cxx.o».
+    Viene tentata la regola del pattern con radice «Field.cxx.o».
+    Viene tentato il prerequisito implicito «s.Field.cxx.o».
+    Viene tentata la regola del pattern con radice «Field.cxx.o».
+    Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.o».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.c».
+    Ricerca di una regola con il "file intermedio" «Field.cxx.c».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.y».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.l».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.w».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.w».
+     Viene tentata la regola del pattern con radice «Field.cxx.c».
+     Viene tentato il prerequisito implicito «Field.cxx.c,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.c».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.c,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.c».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.c».
+     Viene tentata la regola del pattern con radice «Field.cxx.c».
+     Viene tentato il prerequisito implicito «s.Field.cxx.c».
+     Viene tentata la regola del pattern con radice «Field.cxx.c».
+     Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.c».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.y».
+     Ricerca di una regola con il "file intermedio" «Field.cxx.y».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Field.cxx.y».
+      Viene tentato il prerequisito implicito «Field.cxx.y,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.y».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.y,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.y».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.y».
+      Viene tentata la regola del pattern con radice «Field.cxx.y».
+      Viene tentato il prerequisito implicito «s.Field.cxx.y».
+      Viene tentata la regola del pattern con radice «Field.cxx.y».
+      Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.y».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.l».
+     Ricerca di una regola con il "file intermedio" «Field.cxx.l».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Field.cxx.l».
+      Viene tentato il prerequisito implicito «Field.cxx.l,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.l».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.l,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.l».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.l».
+      Viene tentata la regola del pattern con radice «Field.cxx.l».
+      Viene tentato il prerequisito implicito «s.Field.cxx.l».
+      Viene tentata la regola del pattern con radice «Field.cxx.l».
+      Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.l».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.w».
+     Ricerca di una regola con il "file intermedio" «Field.cxx.w».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Field.cxx.w».
+      Viene tentato il prerequisito implicito «Field.cxx.w,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.w».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.w,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.w».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.w».
+      Viene tentata la regola del pattern con radice «Field.cxx.w».
+      Viene tentato il prerequisito implicito «s.Field.cxx.w».
+      Viene tentata la regola del pattern con radice «Field.cxx.w».
+      Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.w».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.w».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.cc».
+    Ricerca di una regola con il "file intermedio" «Field.cxx.cc».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Field.cxx.cc».
+     Viene tentato il prerequisito implicito «Field.cxx.cc,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.cc».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.cc,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.cc».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.cc».
+     Viene tentata la regola del pattern con radice «Field.cxx.cc».
+     Viene tentato il prerequisito implicito «s.Field.cxx.cc».
+     Viene tentata la regola del pattern con radice «Field.cxx.cc».
+     Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.cc».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.C».
+    Ricerca di una regola con il "file intermedio" «Field.cxx.C».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Field.cxx.C».
+     Viene tentato il prerequisito implicito «Field.cxx.C,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.C».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.C,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.C».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.C».
+     Viene tentata la regola del pattern con radice «Field.cxx.C».
+     Viene tentato il prerequisito implicito «s.Field.cxx.C».
+     Viene tentata la regola del pattern con radice «Field.cxx.C».
+     Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.C».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.cpp».
+    Ricerca di una regola con il "file intermedio" «Field.cxx.cpp».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Field.cxx.cpp».
+     Viene tentato il prerequisito implicito «Field.cxx.cpp,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.cpp».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.cpp,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.cpp».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.cpp».
+     Viene tentata la regola del pattern con radice «Field.cxx.cpp».
+     Viene tentato il prerequisito implicito «s.Field.cxx.cpp».
+     Viene tentata la regola del pattern con radice «Field.cxx.cpp».
+     Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.cpp».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.p».
+    Ricerca di una regola con il "file intermedio" «Field.cxx.p».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.web».
+     Viene tentata la regola del pattern con radice «Field.cxx.p».
+     Viene tentato il prerequisito implicito «Field.cxx.p,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.p».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.p,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.p».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.p».
+     Viene tentata la regola del pattern con radice «Field.cxx.p».
+     Viene tentato il prerequisito implicito «s.Field.cxx.p».
+     Viene tentata la regola del pattern con radice «Field.cxx.p».
+     Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.p».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.web».
+     Ricerca di una regola con il "file intermedio" «Field.cxx.web».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Field.cxx.web».
+      Viene tentato il prerequisito implicito «Field.cxx.web,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.web».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.web,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.web».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.web».
+      Viene tentata la regola del pattern con radice «Field.cxx.web».
+      Viene tentato il prerequisito implicito «s.Field.cxx.web».
+      Viene tentata la regola del pattern con radice «Field.cxx.web».
+      Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.web».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.f».
+    Ricerca di una regola con il "file intermedio" «Field.cxx.f».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.F».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.r».
+     Viene tentata la regola del pattern con radice «Field.cxx.f».
+     Viene tentato il prerequisito implicito «Field.cxx.f,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.f».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.f,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.f».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.f».
+     Viene tentata la regola del pattern con radice «Field.cxx.f».
+     Viene tentato il prerequisito implicito «s.Field.cxx.f».
+     Viene tentata la regola del pattern con radice «Field.cxx.f».
+     Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.f».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.F».
+     Ricerca di una regola con il "file intermedio" «Field.cxx.F».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Field.cxx.F».
+      Viene tentato il prerequisito implicito «Field.cxx.F,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.F».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.F,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.F».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.F».
+      Viene tentata la regola del pattern con radice «Field.cxx.F».
+      Viene tentato il prerequisito implicito «s.Field.cxx.F».
+      Viene tentata la regola del pattern con radice «Field.cxx.F».
+      Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.F».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.r».
+     Ricerca di una regola con il "file intermedio" «Field.cxx.r».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Field.cxx».
+      Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.l».
+      Viene tentata la regola del pattern con radice «Field.cxx.r».
+      Viene tentato il prerequisito implicito «Field.cxx.r,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.r».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.r,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.r».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.r».
+      Viene tentata la regola del pattern con radice «Field.cxx.r».
+      Viene tentato il prerequisito implicito «s.Field.cxx.r».
+      Viene tentata la regola del pattern con radice «Field.cxx.r».
+      Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.r».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.F».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.m».
+    Ricerca di una regola con il "file intermedio" «Field.cxx.m».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.ym».
+     Viene tentata la regola del pattern con radice «Field.cxx.m».
+     Viene tentato il prerequisito implicito «Field.cxx.m,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.m».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.m,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.m».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.m».
+     Viene tentata la regola del pattern con radice «Field.cxx.m».
+     Viene tentato il prerequisito implicito «s.Field.cxx.m».
+     Viene tentata la regola del pattern con radice «Field.cxx.m».
+     Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.m».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.ym».
+     Ricerca di una regola con il "file intermedio" «Field.cxx.ym».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Field.cxx.ym».
+      Viene tentato il prerequisito implicito «Field.cxx.ym,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.ym».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.ym,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.ym».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.ym».
+      Viene tentata la regola del pattern con radice «Field.cxx.ym».
+      Viene tentato il prerequisito implicito «s.Field.cxx.ym».
+      Viene tentata la regola del pattern con radice «Field.cxx.ym».
+      Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.ym».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.r».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.s».
+    Ricerca di una regola con il "file intermedio" «Field.cxx.s».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.S».
+     Viene tentata la regola del pattern con radice «Field.cxx.s».
+     Viene tentato il prerequisito implicito «Field.cxx.s,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.s».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.s,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.s».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.s».
+     Viene tentata la regola del pattern con radice «Field.cxx.s».
+     Viene tentato il prerequisito implicito «s.Field.cxx.s».
+     Viene tentata la regola del pattern con radice «Field.cxx.s».
+     Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.s».
+     Viene tentata la regola del pattern con radice «Field.cxx».
+     Viene tentato il prerequisito implicito «Field.cxx.S».
+     Ricerca di una regola con il "file intermedio" «Field.cxx.S».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Field.cxx.S».
+      Viene tentato il prerequisito implicito «Field.cxx.S,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.S».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.S,v».
+      Viene tentata la regola del pattern con radice «Field.cxx.S».
+      Viene tentato il prerequisito implicito «RCS/Field.cxx.S».
+      Viene tentata la regola del pattern con radice «Field.cxx.S».
+      Viene tentato il prerequisito implicito «s.Field.cxx.S».
+      Viene tentata la regola del pattern con radice «Field.cxx.S».
+      Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.S».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.S».
+    Viene tentata la regola del pattern con radice «Field.cxx».
+    Viene tentato il prerequisito implicito «Field.cxx.mod».
+    Ricerca di una regola con il "file intermedio" «Field.cxx.mod».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Field.cxx.mod».
+     Viene tentato il prerequisito implicito «Field.cxx.mod,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.mod».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.mod,v».
+     Viene tentata la regola del pattern con radice «Field.cxx.mod».
+     Viene tentato il prerequisito implicito «RCS/Field.cxx.mod».
+     Viene tentata la regola del pattern con radice «Field.cxx.mod».
+     Viene tentato il prerequisito implicito «s.Field.cxx.mod».
+     Viene tentata la regola del pattern con radice «Field.cxx.mod».
+     Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.mod».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.c».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.cc».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.C».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.cpp».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.p».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.f».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.F».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.m».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.r».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.s».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.S».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Field.cxx.mod».
+   Viene tentata la regola del pattern con radice «Field.cxx».
+   Viene tentato il prerequisito implicito «Field.cxx.sh».
+   Ricerca di una regola con il "file intermedio" «Field.cxx.sh».
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Field.cxx.sh».
+    Viene tentato il prerequisito implicito «Field.cxx.sh,v».
+    Viene tentata la regola del pattern con radice «Field.cxx.sh».
+    Viene tentato il prerequisito implicito «RCS/Field.cxx.sh,v».
+    Viene tentata la regola del pattern con radice «Field.cxx.sh».
+    Viene tentato il prerequisito implicito «RCS/Field.cxx.sh».
+    Viene tentata la regola del pattern con radice «Field.cxx.sh».
+    Viene tentato il prerequisito implicito «s.Field.cxx.sh».
+    Viene tentata la regola del pattern con radice «Field.cxx.sh».
+    Viene tentato il prerequisito implicito «SCCS/s.Field.cxx.sh».
+   Nessuna regola implicita trovata per «Field.cxx».
+   Prerequisiti del file obiettivo «Field.cxx» terminati.
+  L'obiettivo «Field.cxx» non necessita di essere rigenerato.
+  Considerato il file obiettivo «Carriers.h».
+   Ricerca di una regola implicita per «Carriers.h».
+   Viene tentata la regola del pattern con radice «Carriers.h».
+   Viene tentato il prerequisito implicito «Carriers.h,v».
+   Viene tentata la regola del pattern con radice «Carriers.h».
+   Viene tentato il prerequisito implicito «RCS/Carriers.h,v».
+   Viene tentata la regola del pattern con radice «Carriers.h».
+   Viene tentato il prerequisito implicito «RCS/Carriers.h».
+   Viene tentata la regola del pattern con radice «Carriers.h».
+   Viene tentato il prerequisito implicito «s.Carriers.h».
+   Viene tentata la regola del pattern con radice «Carriers.h».
+   Viene tentato il prerequisito implicito «SCCS/s.Carriers.h».
+   Nessuna regola implicita trovata per «Carriers.h».
+   Prerequisiti del file obiettivo «Carriers.h» terminati.
+  L'obiettivo «Carriers.h» non necessita di essere rigenerato.
+  Considerato il file obiettivo «Carriers.cxx».
+   Ricerca di una regola implicita per «Carriers.cxx».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.o».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.c».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.cc».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.C».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.cpp».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.p».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.f».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.F».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.m».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.r».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.s».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.S».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.mod».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.sh».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx,v».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «RCS/Carriers.cxx,v».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «RCS/Carriers.cxx».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «s.Carriers.cxx».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.o».
+   Ricerca di una regola con il "file intermedio" «Carriers.cxx.o».
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.c».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.cc».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.C».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.cpp».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.p».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.f».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.F».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.m».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.r».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.s».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.S».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.mod».
+    Viene tentata la regola del pattern con radice «Carriers.cxx.o».
+    Viene tentato il prerequisito implicito «Carriers.cxx.o,v».
+    Viene tentata la regola del pattern con radice «Carriers.cxx.o».
+    Viene tentato il prerequisito implicito «RCS/Carriers.cxx.o,v».
+    Viene tentata la regola del pattern con radice «Carriers.cxx.o».
+    Viene tentato il prerequisito implicito «RCS/Carriers.cxx.o».
+    Viene tentata la regola del pattern con radice «Carriers.cxx.o».
+    Viene tentato il prerequisito implicito «s.Carriers.cxx.o».
+    Viene tentata la regola del pattern con radice «Carriers.cxx.o».
+    Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.o».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.c».
+    Ricerca di una regola con il "file intermedio" «Carriers.cxx.c».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.y».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.l».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.w».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.w».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.c».
+     Viene tentato il prerequisito implicito «Carriers.cxx.c,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.c».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.c,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.c».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.c».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.c».
+     Viene tentato il prerequisito implicito «s.Carriers.cxx.c».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.c».
+     Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.c».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.y».
+     Ricerca di una regola con il "file intermedio" «Carriers.cxx.y».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Carriers.cxx.y».
+      Viene tentato il prerequisito implicito «Carriers.cxx.y,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.y».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.y,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.y».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.y».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.y».
+      Viene tentato il prerequisito implicito «s.Carriers.cxx.y».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.y».
+      Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.y».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.l».
+     Ricerca di una regola con il "file intermedio" «Carriers.cxx.l».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Carriers.cxx.l».
+      Viene tentato il prerequisito implicito «Carriers.cxx.l,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.l».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.l,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.l».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.l».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.l».
+      Viene tentato il prerequisito implicito «s.Carriers.cxx.l».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.l».
+      Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.l».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.w».
+     Ricerca di una regola con il "file intermedio" «Carriers.cxx.w».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Carriers.cxx.w».
+      Viene tentato il prerequisito implicito «Carriers.cxx.w,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.w».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.w,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.w».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.w».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.w».
+      Viene tentato il prerequisito implicito «s.Carriers.cxx.w».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.w».
+      Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.w».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.w».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.cc».
+    Ricerca di una regola con il "file intermedio" «Carriers.cxx.cc».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Carriers.cxx.cc».
+     Viene tentato il prerequisito implicito «Carriers.cxx.cc,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.cc».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.cc,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.cc».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.cc».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.cc».
+     Viene tentato il prerequisito implicito «s.Carriers.cxx.cc».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.cc».
+     Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.cc».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.C».
+    Ricerca di una regola con il "file intermedio" «Carriers.cxx.C».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Carriers.cxx.C».
+     Viene tentato il prerequisito implicito «Carriers.cxx.C,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.C».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.C,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.C».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.C».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.C».
+     Viene tentato il prerequisito implicito «s.Carriers.cxx.C».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.C».
+     Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.C».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.cpp».
+    Ricerca di una regola con il "file intermedio" «Carriers.cxx.cpp».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Carriers.cxx.cpp».
+     Viene tentato il prerequisito implicito «Carriers.cxx.cpp,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.cpp».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.cpp,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.cpp».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.cpp».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.cpp».
+     Viene tentato il prerequisito implicito «s.Carriers.cxx.cpp».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.cpp».
+     Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.cpp».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.p».
+    Ricerca di una regola con il "file intermedio" «Carriers.cxx.p».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.web».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.p».
+     Viene tentato il prerequisito implicito «Carriers.cxx.p,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.p».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.p,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.p».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.p».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.p».
+     Viene tentato il prerequisito implicito «s.Carriers.cxx.p».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.p».
+     Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.p».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.web».
+     Ricerca di una regola con il "file intermedio" «Carriers.cxx.web».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Carriers.cxx.web».
+      Viene tentato il prerequisito implicito «Carriers.cxx.web,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.web».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.web,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.web».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.web».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.web».
+      Viene tentato il prerequisito implicito «s.Carriers.cxx.web».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.web».
+      Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.web».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.f».
+    Ricerca di una regola con il "file intermedio" «Carriers.cxx.f».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.F».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.r».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.f».
+     Viene tentato il prerequisito implicito «Carriers.cxx.f,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.f».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.f,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.f».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.f».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.f».
+     Viene tentato il prerequisito implicito «s.Carriers.cxx.f».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.f».
+     Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.f».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.F».
+     Ricerca di una regola con il "file intermedio" «Carriers.cxx.F».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Carriers.cxx.F».
+      Viene tentato il prerequisito implicito «Carriers.cxx.F,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.F».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.F,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.F».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.F».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.F».
+      Viene tentato il prerequisito implicito «s.Carriers.cxx.F».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.F».
+      Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.F».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.r».
+     Ricerca di una regola con il "file intermedio" «Carriers.cxx.r».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Carriers.cxx».
+      Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.l».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.r».
+      Viene tentato il prerequisito implicito «Carriers.cxx.r,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.r».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.r,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.r».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.r».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.r».
+      Viene tentato il prerequisito implicito «s.Carriers.cxx.r».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.r».
+      Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.r».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.F».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.m».
+    Ricerca di una regola con il "file intermedio" «Carriers.cxx.m».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.ym».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.m».
+     Viene tentato il prerequisito implicito «Carriers.cxx.m,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.m».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.m,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.m».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.m».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.m».
+     Viene tentato il prerequisito implicito «s.Carriers.cxx.m».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.m».
+     Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.m».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.ym».
+     Ricerca di una regola con il "file intermedio" «Carriers.cxx.ym».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Carriers.cxx.ym».
+      Viene tentato il prerequisito implicito «Carriers.cxx.ym,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.ym».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.ym,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.ym».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.ym».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.ym».
+      Viene tentato il prerequisito implicito «s.Carriers.cxx.ym».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.ym».
+      Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.ym».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.r».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.s».
+    Ricerca di una regola con il "file intermedio" «Carriers.cxx.s».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.S».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.s».
+     Viene tentato il prerequisito implicito «Carriers.cxx.s,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.s».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.s,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.s».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.s».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.s».
+     Viene tentato il prerequisito implicito «s.Carriers.cxx.s».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.s».
+     Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.s».
+     Viene tentata la regola del pattern con radice «Carriers.cxx».
+     Viene tentato il prerequisito implicito «Carriers.cxx.S».
+     Ricerca di una regola con il "file intermedio" «Carriers.cxx.S».
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene evitata la ricorsione della regola implicita.
+      Viene tentata la regola del pattern con radice «Carriers.cxx.S».
+      Viene tentato il prerequisito implicito «Carriers.cxx.S,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.S».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.S,v».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.S».
+      Viene tentato il prerequisito implicito «RCS/Carriers.cxx.S».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.S».
+      Viene tentato il prerequisito implicito «s.Carriers.cxx.S».
+      Viene tentata la regola del pattern con radice «Carriers.cxx.S».
+      Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.S».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.S».
+    Viene tentata la regola del pattern con radice «Carriers.cxx».
+    Viene tentato il prerequisito implicito «Carriers.cxx.mod».
+    Ricerca di una regola con il "file intermedio" «Carriers.cxx.mod».
+     Viene evitata la ricorsione della regola implicita.
+     Viene evitata la ricorsione della regola implicita.
+     Viene tentata la regola del pattern con radice «Carriers.cxx.mod».
+     Viene tentato il prerequisito implicito «Carriers.cxx.mod,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.mod».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.mod,v».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.mod».
+     Viene tentato il prerequisito implicito «RCS/Carriers.cxx.mod».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.mod».
+     Viene tentato il prerequisito implicito «s.Carriers.cxx.mod».
+     Viene tentata la regola del pattern con radice «Carriers.cxx.mod».
+     Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.mod».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.c».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.cc».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.C».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.cpp».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.p».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.f».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.F».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.m».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.r».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.s».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.S».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene rifiutato il prerequisito implicito "impossible" «Carriers.cxx.mod».
+   Viene tentata la regola del pattern con radice «Carriers.cxx».
+   Viene tentato il prerequisito implicito «Carriers.cxx.sh».
+   Ricerca di una regola con il "file intermedio" «Carriers.cxx.sh».
+    Viene evitata la ricorsione della regola implicita.
+    Viene tentata la regola del pattern con radice «Carriers.cxx.sh».
+    Viene tentato il prerequisito implicito «Carriers.cxx.sh,v».
+    Viene tentata la regola del pattern con radice «Carriers.cxx.sh».
+    Viene tentato il prerequisito implicito «RCS/Carriers.cxx.sh,v».
+    Viene tentata la regola del pattern con radice «Carriers.cxx.sh».
+    Viene tentato il prerequisito implicito «RCS/Carriers.cxx.sh».
+    Viene tentata la regola del pattern con radice «Carriers.cxx.sh».
+    Viene tentato il prerequisito implicito «s.Carriers.cxx.sh».
+    Viene tentata la regola del pattern con radice «Carriers.cxx.sh».
+    Viene tentato il prerequisito implicito «SCCS/s.Carriers.cxx.sh».
+   Nessuna regola implicita trovata per «Carriers.cxx».
+   Prerequisiti del file obiettivo «Carriers.cxx» terminati.
+  L'obiettivo «Carriers.cxx» non necessita di essere rigenerato.
+ Prerequisiti del file obiettivo «weightfield» terminati.
+ Il prerequisito «WFGUI.h» è più vecchio dell'obiettivo «weightfield».
+ Il prerequisito «WFGUI.cxx» è più vecchio dell'obiettivo «weightfield».
+ Il prerequisito «Potentials.h» è più vecchio dell'obiettivo «weightfield».
+ Il prerequisito «Potentials.cxx» è più vecchio dell'obiettivo «weightfield».
+ Il prerequisito «Field.h» è più vecchio dell'obiettivo «weightfield».
+ Il prerequisito «Field.cxx» è più vecchio dell'obiettivo «weightfield».
+ Il prerequisito «Carriers.h» è più vecchio dell'obiettivo «weightfield».
+ Il prerequisito «Carriers.cxx» è più vecchio dell'obiettivo «weightfield».
+Generazione di «weightfield» a causa dell'opzione "always-make".
+L'obiettivo «weightfield» deve essere rigenerato.
